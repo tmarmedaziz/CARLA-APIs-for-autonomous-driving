@@ -4,7 +4,7 @@
 
 
 ## Context
-Cancel changes
+
 This project was carried out as part of the career preparation project, the result of hard work and dedication, and is supervised by Ms. Ferdaous Chaaben. It is a simple discovery of the automotive world and ADAS systems.
 
 ## Pipeline
